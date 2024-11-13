@@ -162,7 +162,7 @@
                             </div>
                             <div class="col-sm-4">
                                 <div class="px-3">
-                                    <img src="{{ asset('assets/AE_style/images/good.png') }}" class="img-fluid" alt="">
+                                    <img src="{{ asset('assets/AE_style/images/good3.png') }}" class="img-fluid" alt="">
                                 </div>
                             </div>
                         </div>
@@ -190,7 +190,7 @@
                             </div>
                             <div class="col-sm-4">
                                 <div class="px-3">
-                                    <img src="{{ asset('assets/AE_style/images/bad3.webp') }}" class="img-fluid" alt="">
+                                    <img src="{{ asset('assets/AE_style/images/bad6.png') }}" class="img-fluid" alt="">
                                 </div>
                             </div>
                         </div>
